@@ -14,6 +14,8 @@ h1, h2{
 	font-family: arial, sans serif, helvetica;
 }
 
+/* header syles */
+
 header h1{
 	color: rebeccapurple;
 	font-family: arial, sans serif, helvtica;
@@ -42,7 +44,7 @@ h2{
 }
 
 a{
-	color: aquamarine;
+	color: gold;
 
 }
 a:hover{
